@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Outer circle with gradient feel -->
+  <circle cx="50" cy="50" r="45" fill="#12524E" />
+  <circle cx="50" cy="50" r="40" fill="#0B3B38" />
+  
+  <!-- Medical Cross / Plus Sign -->
+  <rect x="42" y="25" width="16" height="50" rx="4" fill="#EAF3F1" />
+  <rect x="25" y="42" width="50" height="16" rx="4" fill="#EAF3F1" />
+  
+  <!-- AI / Tech Node in the center -->
+  <circle cx="50" cy="50" r="6" fill="#E8604A" />
+</svg>
