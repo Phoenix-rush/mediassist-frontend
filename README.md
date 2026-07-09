@@ -2,7 +2,7 @@
 
 The React interface for [MediAssist AI](#-related-repos) — upload a medical report, then ask questions about it in a streaming chat interface with a custom clinical design system.
 
-> 🔗 **Live demo:** [mediassist-frontend-phoenix-rush1.vercel.app](https://mediassist-frontend-phoenix-rush1.vercel.app) *(update with your production Vercel URL)*
+> 🔗 **Live demo:** [mediassist-frontend-phoenix-rush1.vercel.app](https://mediassist-frontend-phoenix-rush1.vercel.app)
 
 ---
 
@@ -71,11 +71,8 @@ src/
 
 *(add screenshots of the login screen and chat interface here)*
 
-```markdown
-![Login](screenshots/login.png)
+![Login](screenshots/load.png)
 ![Chat](screenshots/chat.png)
-```
-
 ---
 
 ## 🔗 Related Repos
